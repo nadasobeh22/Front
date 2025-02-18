@@ -30,7 +30,7 @@ const Navbar = () => {
             <Link to="/menu" className="text-gray-700 hover:text-blue-500 transition">Menu</Link>
             <Link to="/reservations" className="text-gray-700 hover:text-blue-500 transition">Reservations</Link>
             <Link to="/contact" className="text-gray-700 hover:text-blue-500 transition">Contact</Link>
-            <Link to="/AllProducts" className="text-gray-700 hover:text-blue-500 transition">AllProducts</Link>
+            <Link to="/Categories" className="text-gray-700 hover:text-blue-500 transition">Categories</Link>
           </nav>
 
           {/* Buttons */}
